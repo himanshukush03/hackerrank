@@ -1,0 +1,21 @@
+
+    body {
+  background-color: AliceBlue;
+}
+
+h {
+  color: Sienna    ;
+  margin-left: 20px;
+  
+  color: red;
+  font-family: Serif;
+    font-size: 160%;
+  border: 2px solid MediumOrchid;
+  padding: 10px;
+  margin: 10px;
+}
+img{
+float: left;
+  border-radius: 50%;
+  box-shadow: 10px 10px 8px #888888;
+}
